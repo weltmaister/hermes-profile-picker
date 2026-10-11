@@ -2,6 +2,22 @@
 
 Choose **which profile a new chat runs in** right where you start it — in the composer, next to the model pill — instead of hunting for the small profile squares at the foot of the sidebar.
 
+## Screenshots
+
+New chat, picker open:
+
+![Profile picker open in the composer](docs/picker-open.png)
+
+New chat, picker closed:
+
+![Profile picker closed](docs/picker-closed.png)
+
+Running chat with the read-only profile chip:
+
+![Profile chip in a running chat](docs/chip-running-chat.png)
+
+Profile names, tab titles and the model label in these screenshots were anonymised; the status bar was cropped.
+
 ## What it does
 
 - **New, unsent chat:** a `Profile: <name> ▾` dropdown sits at the start of the composer. Pick a profile and a fresh draft opens in that profile. Text you already typed is carried over.
